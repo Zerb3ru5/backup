@@ -1,0 +1,7 @@
+setup.py
+backup.egg-info/PKG-INFO
+backup.egg-info/SOURCES.txt
+backup.egg-info/dependency_links.txt
+backup.egg-info/entry_points.txt
+backup.egg-info/requires.txt
+backup.egg-info/top_level.txt
